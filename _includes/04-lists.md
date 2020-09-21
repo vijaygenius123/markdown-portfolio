@@ -1,0 +1,2 @@
+ - Favourite Item 1 :heart:
+ - Favourite Item 2 :smiley:
